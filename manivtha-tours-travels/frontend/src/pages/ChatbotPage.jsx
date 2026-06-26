@@ -106,7 +106,7 @@ const ChatbotPage = () => {
     setIsLoading(true);
 
     try {
-      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/chat`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || ''}/api/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ 
@@ -263,7 +263,7 @@ const ChatbotPage = () => {
     e.preventDefault();
     setFeedbackStatus('Submitting...');
     try {
-      await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/feedback`, {
+      await fetch(`${import.meta.env.VITE_API_URL || ''}/api/feedback`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ rating, comment })
@@ -609,7 +609,7 @@ const BookingFormWidget = ({ onSubmitSuccess, onCancel }) => {
     }
     setIsSubmitting(true);
     try {
-      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/enquiries`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || ''}/api/enquiries`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData)

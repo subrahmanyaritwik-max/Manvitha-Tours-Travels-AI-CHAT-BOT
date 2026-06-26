@@ -54,7 +54,7 @@ const Admin = () => {
     setIsLoading(true);
     setErrorMsg('');
     try {
-      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/analytics`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || ''}/api/analytics`, {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
@@ -83,7 +83,7 @@ const Admin = () => {
 
   const fetchChatSessions = async () => {
     try {
-      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/chat-sessions`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || ''}/api/chat-sessions`, {
         headers: { 'x-admin-passcode': passcode }
       });
       if (!response.ok) throw new Error('Failed to load chat sessions');
@@ -98,7 +98,7 @@ const Admin = () => {
     setIsTranscriptLoading(true);
     setActiveSessionId(sId);
     try {
-      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/chat-sessions/${sId}`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || ''}/api/chat-sessions/${sId}`, {
         headers: { 'x-admin-passcode': passcode }
       });
       if (!response.ok) throw new Error('Failed to load transcript');
@@ -115,7 +115,7 @@ const Admin = () => {
   const fetchCustomerProfiles = async () => {
     setIsProfilesLoading(true);
     try {
-      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/customer-profiles`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || ''}/api/customer-profiles`, {
         headers: { 'x-admin-passcode': passcode }
       });
       if (!response.ok) throw new Error('Failed to load customer profiles');
@@ -143,7 +143,7 @@ const Admin = () => {
 
   const handleStatusChange = async (enquiryId, newStatus) => {
     try {
-      const response = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/enquiries/${enquiryId}/status`, {
+      const response = await fetch(`${import.meta.env.VITE_API_URL || ''}/api/enquiries/${enquiryId}/status`, {
         method: 'PATCH',
         headers: {
           'Content-Type': 'application/json',
