@@ -8,6 +8,8 @@ if (!fs.existsSync(DATA_DIR)) {
   fs.mkdirSync(DATA_DIR, { recursive: true });
 }
 
+const memoryDb = {};
+
 const getFilePath = (collection) => {
   return path.join(DATA_DIR, `${collection}.json`);
 };
@@ -15,23 +17,24 @@ const getFilePath = (collection) => {
 const readJSONFile = (collection) => {
   const filePath = getFilePath(collection);
   if (!fs.existsSync(filePath)) {
-    return [];
+    return memoryDb[collection] || [];
   }
   try {
     const data = fs.readFileSync(filePath, 'utf8');
     return JSON.parse(data || '[]');
   } catch (error) {
     console.error(`Error reading ${collection}.json:`, error);
-    return [];
+    return memoryDb[collection] || [];
   }
 };
 
 const writeJSONFile = (collection, data) => {
+  memoryDb[collection] = data;
   const filePath = getFilePath(collection);
   try {
     fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
   } catch (error) {
-    console.error(`Error writing to ${collection}.json:`, error);
+    console.warn(`Warning: Could not write to disk (${error.message}). Using in-memory storage fallback.`);
   }
 };
 
