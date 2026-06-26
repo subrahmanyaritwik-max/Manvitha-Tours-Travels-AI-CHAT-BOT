@@ -28,7 +28,7 @@ const ScrollToTop = () => {
 
 function App() {
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       <ScrollToTop />
       <div className="min-h-screen bg-[#0a192f] text-slate-100 flex flex-col justify-between font-sans selection:bg-skyAccent-500/30 selection:text-skyAccent-400">
         
