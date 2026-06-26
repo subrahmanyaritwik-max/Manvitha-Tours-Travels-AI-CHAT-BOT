@@ -21,11 +21,12 @@ jobs:
           cd "Manivtha Tours & Travels/frontend"
           npm install
           npm run build
+          mv dist ../../build-output
         env:
-          VITE_API_URL: https://manvitha-tours-travels-ai-chat-bot.onrender.com # Placeholder backend URL, you can configure this to your actual Render URL
+          VITE_API_URL: https://manvitha-tours-travels-ai-chat-bot.onrender.com
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: "Manivtha Tours & Travels/frontend/dist"
+          folder: build-output
           branch: gh-pages
