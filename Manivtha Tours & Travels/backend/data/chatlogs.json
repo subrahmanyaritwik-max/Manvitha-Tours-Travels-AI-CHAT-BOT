@@ -1,0 +1,453 @@
+[
+  {
+    "_id": "mqhjpoeeod1vi",
+    "createdAt": "2026-06-17T04:03:06.566Z",
+    "userMessage": "What are your outstation packages?",
+    "aiResponse": "Planning a trip outside Hyderabad? We offer outstation travel Packages starting at:\n• **Sedan:** ₹12 per km\n• **SUV (Ertiga):** ₹15 per km\n• **Innova Crysta:** ₹20 per km\n• **Tempo Traveller:** ₹25 per km\n*Term details:* Minimum charging is 250 km/day. Driver allowance is ₹300/day. Tolls and permits will be extra. Let us know your destination and date to plan your journey!",
+    "topic": "Outstation"
+  },
+  {
+    "_id": "mqhjzl2khz1x3",
+    "createdAt": "2026-06-17T04:10:48.812Z",
+    "userMessage": "What vehicles are available?",
+    "aiResponse": "Our clean, well-maintained fleet includes:\n• **Sedans (Dzire/Etios):** Seats 4+1 driver, fits 2 medium bags.\n• **SUVs (Ertiga):** Seats 6+1 driver, fits 3 bags. Ideal for families.\n• **Premium SUVs (Innova Crysta):** Seats 7+1 driver, fits 4 bags. Ultimate comfort.\n• **Tempo Travellers (12/14/17 Seater):** Fits up to 17 people. Best for big group excursions.\nAll vehicles are GPS-enabled. Call **+91 94901 02588** to check availability!",
+    "topic": "Fleet"
+  },
+  {
+    "_id": "mqhjzv4wd9x1p",
+    "createdAt": "2026-06-17T04:11:01.856Z",
+    "userMessage": "tell me the trip details ",
+    "aiResponse": "Planning a trip outside Hyderabad? We offer outstation travel Packages starting at:\n• **Sedan:** ₹12 per km\n• **SUV (Ertiga):** ₹15 per km\n• **Innova Crysta:** ₹20 per km\n• **Tempo Traveller:** ₹25 per km\n*Term details:* Minimum charging is 250 km/day. Driver allowance is ₹300/day. Tolls and permits will be extra. Let us know your destination and date to plan your journey!",
+    "topic": "Outstation"
+  },
+  {
+    "_id": "mqhk0rh3d6pqe",
+    "createdAt": "2026-06-17T04:11:43.767Z",
+    "userMessage": "what are luggaes we need to carry for travelling ",
+    "aiResponse": "Our clean, well-maintained fleet includes:\n• **Sedans (Dzire/Etios):** Seats 4+1 driver, fits 2 medium bags.\n• **SUVs (Ertiga):** Seats 6+1 driver, fits 3 bags. Ideal for families.\n• **Premium SUVs (Innova Crysta):** Seats 7+1 driver, fits 4 bags. Ultimate comfort.\n• **Tempo Travellers (12/14/17 Seater):** Fits up to 17 people. Best for big group excursions.\nAll vehicles are GPS-enabled. Call **+91 94901 02588** to check availability!",
+    "topic": "Fleet"
+  },
+  {
+    "_id": "mqhk5juqcsngf",
+    "createdAt": "2026-06-17T04:15:27.170Z",
+    "userMessage": "What vehicles are available?",
+    "aiResponse": "Our clean, well-maintained fleet includes:\n• **Sedans (Dzire/Etios):** Seats 4+1 driver, fits 2 medium bags.\n• **SUVs (Ertiga):** Seats 6+1 driver, fits 3 bags. Ideal for families.\n• **Premium SUVs (Innova Crysta):** Seats 7+1 driver, fits 4 bags. Ultimate comfort.\n• **Tempo Travellers (12/14/17 Seater):** Fits up to 17 people. Best for big group excursions.\nAll vehicles are GPS-enabled. Call **+91 94901 02588** to check availability!",
+    "topic": "Fleet"
+  },
+  {
+    "_id": "mqhkurnlw74o3",
+    "createdAt": "2026-06-17T04:35:03.681Z",
+    "userMessage": "Tempo Traveller outstation cost?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire/Etios):** Local 8hr/80km is ₹2,500. Outstation rate is ₹12/km. Airport flat rate is ₹1,200.\n• **SUVs (Ertiga):** Local 8hr/80km is ₹3,500. Outstation rate is ₹15/km. Airport flat rate is ₹1,800.\n• **Premium SUVs (Innova Crysta):** Local 8hr/80km is ₹4,500. Outstation rate is ₹20/km. Airport flat rate is ₹2,400.\n• **Tempo Travellers:** Local 8hr/80km is ₹6,500. Outstation rate is ₹25/km.\n*Note: Tolls, parking, and state permit taxes are extra on actuals.* Please submit our Contact Form or call us at **+91 94901 02588** for a precise quotation.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqhkv1u43k1y3",
+    "createdAt": "2026-06-17T04:35:16.876Z",
+    "userMessage": "How do I confirm a booking?",
+    "aiResponse": "Booking with Manivtha Tours & Travels is simple:\n1. Fill out the Booking Enquiry Form on our Contact Page with your details.\n2. Send us a message on WhatsApp or call us at **+91 94901 02588** for instant booking.\n*We require a 20% advance via UPI or Net Banking to confirm, and the balance can be paid directly to the chauffeur.*",
+    "topic": "Booking"
+  },
+  {
+    "_id": "mqhl5v9uju7dz",
+    "createdAt": "2026-06-17T04:43:41.586Z",
+    "userMessage": "We are 12 passengers. What do you suggest?",
+    "aiResponse": "🚌 **AI Ride Recommendation:**\nRecommended Vehicle: **Tempo Traveller 12 Seater**.\nReason: Spacious passenger cabin configuration with pushback seats and overhead luggage racks. Starts at ₹25/km outstation.\n\nWould you like me to calculate outstation tolls for this, or check availability for a specific pickup date? You can book by submitting our Contact Form or calling **+91 94901 02588**.",
+    "topic": "General"
+  },
+  {
+    "_id": "mqhlgcs3w9o8o",
+    "createdAt": "2026-06-17T04:51:50.835Z",
+    "userMessage": "We are 12 people. What vehicle do you suggest?",
+    "aiResponse": "🚌 **AI Ride Recommendation:**\nRecommended Vehicle: **Tempo Traveller 17 Seater**.\nReason: Excellent high-roof group travel option for up to 17 people. Starts at ₹28/km outstation.\n\nWould you like me to calculate outstation tolls for this, or check availability for a specific pickup date? You can book by submitting our Contact Form or calling **+91 94901 02588**.",
+    "topic": "Fleet"
+  },
+  {
+    "_id": "mqhli47dyirul",
+    "createdAt": "2026-06-17T04:53:13.033Z",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqhobfa59q8aw",
+    "createdAt": "2026-06-17T06:11:59.645Z",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqhobqlhg8cpo",
+    "createdAt": "2026-06-17T06:12:14.309Z",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqhobsw8kuqgw",
+    "createdAt": "2026-06-17T06:12:17.288Z",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqhobwd13n0ei",
+    "createdAt": "2026-06-17T06:12:21.781Z",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqhocf6qu3tf4",
+    "createdAt": "2026-06-17T06:12:46.178Z",
+    "userMessage": "can you explain me the trip details ",
+    "aiResponse": "Planning a trip outside Hyderabad? We offer outstation travel Packages starting at:\n• **Sedans:** ₹12 per km\n• **Kia Carens:** ₹16 per km\n• **Mahindra XUV700:** ₹18 per km\n• **Innova Crysta:** ₹20 per km\n• **Innova Hycross:** ₹22 per km\n• **Tempo Traveller:** ₹28 per km\n*Term details:* Minimum charging is 250 km/day. Driver allowance is ₹300/day. Tolls and permits will be extra. Let us know your destination and date to plan your journey!",
+    "topic": "Outstation"
+  },
+  {
+    "_id": "mqhocrlhqaykw",
+    "createdAt": "2026-06-17T06:13:02.261Z",
+    "userMessage": "what we should carry ",
+    "aiResponse": "Our clean, well-maintained fleet includes:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Seats 4, fits 2 medium bags.\n• **SUVs & MPVs (Carens, XUV700, Innova Crysta, Hycross):** Seats 6 to 7.\n• **Tempo Travellers (17 Seater):** Best choice for group tours.\nAll vehicles are GPS-enabled. Call **+91 94901 02588** to check availability!",
+    "topic": "Fleet"
+  },
+  {
+    "_id": "mqhustxajltpn",
+    "createdAt": "2026-06-17T09:13:29.470Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqhut7cb4ixrt",
+    "createdAt": "2026-06-17T09:13:46.859Z",
+    "userMessage": "Do you offer corporate contracts and office employee pickups?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqizstfh3hg80",
+    "createdAt": "2026-06-18T04:21:13.085Z",
+    "userMessage": "what are the trip details ",
+    "aiResponse": "Planning a trip outside Hyderabad? We offer outstation travel Packages starting at:\n• **Sedans:** ₹12 per km\n• **Kia Carens:** ₹16 per km\n• **Mahindra XUV700:** ₹18 per km\n• **Innova Crysta:** ₹20 per km\n• **Innova Hycross:** ₹22 per km\n• **Tempo Traveller:** ₹28 per km\n*Term details:* Minimum charging is 250 km/day. Driver allowance is ₹300/day. Tolls and permits will be extra. Let us know your destination and date to plan your journey!",
+    "topic": "Outstation"
+  },
+  {
+    "_id": "mqjksh1a08oae",
+    "createdAt": "2026-06-18T14:08:48.958Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqjksm8g8fmv8",
+    "createdAt": "2026-06-18T14:08:55.696Z",
+    "userMessage": "Do you offer corporate contracts and office employee pickups?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqjkt78l64zh8",
+    "createdAt": "2026-06-18T14:09:22.917Z",
+    "userMessage": "Can I book a one-way trip from Hyderabad to Vijayawada?",
+    "aiResponse": "Planning a trip outside Hyderabad? We offer outstation travel Packages starting at:\n• **Sedans:** ₹12 per km\n• **Kia Carens:** ₹16 per km\n• **Mahindra XUV700:** ₹18 per km\n• **Innova Crysta:** ₹20 per km\n• **Innova Hycross:** ₹22 per km\n• **Tempo Traveller:** ₹28 per km\n*Term details:* Minimum charging is 250 km/day. Driver allowance is ₹300/day. Tolls and permits will be extra. Let us know your destination and date to plan your journey!",
+    "topic": "Outstation"
+  },
+  {
+    "_id": "mqjktwzq9ayf2",
+    "createdAt": "2026-06-18T14:09:56.294Z",
+    "userMessage": "I want to travel from Hyderabad to Shirdi with 8 people, what vehicle do you suggest?",
+    "aiResponse": "🚌 **AI Ride Recommendation:**\nRecommended Vehicle: **Tempo Traveller 17 Seater**.\nReason: Excellent high-roof group travel option for up to 17 people. Starts at ₹28/km outstation.\n\nWould you like me to calculate outstation tolls for this, or check availability for a specific pickup date? You can book by submitting our Contact Form or calling **+91 94901 02588**.",
+    "topic": "Fleet"
+  },
+  {
+    "_id": "mqjkucagf87eb",
+    "createdAt": "2026-06-18T14:10:16.120Z",
+    "userMessage": "I need a tempo traveller for a corporate team outing for 20 people",
+    "aiResponse": "🚌 **AI Ride Recommendation:**\nRecommended Option: **Booking multiple vehicles** (e.g. Two Innova Crystas or multiple Tempo Travellers).\nReason: A single vehicle cannot safely fit more than 17 passengers. Combining vehicles ensures maximum safety and compliance.\n\nWould you like me to calculate outstation tolls for this, or check availability for a specific pickup date? You can book by submitting our Contact Form or calling **+91 94901 02588**.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqjl31g5ho58x",
+    "createdAt": "2026-06-18T14:17:01.973Z",
+    "userMessage": "Do you offer corporate contracts and office employee pickups?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqkp630hkeyvi",
+    "createdAt": "2026-06-19T08:59:08.609Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqkp67ad80qme",
+    "createdAt": "2026-06-19T08:59:14.149Z",
+    "userMessage": "Do you offer corporate contracts and office employee pickups?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqkp6b22neo7r",
+    "createdAt": "2026-06-19T08:59:19.034Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqkpnmhv3tmz3",
+    "createdAt": "2026-06-19T09:12:47.011Z",
+    "userMessage": "i want to go karnataka  to hydrabad give me trip plane",
+    "aiResponse": "Planning a trip outside Hyderabad? We offer outstation travel Packages starting at:\n• **Sedans:** ₹12 per km\n• **Kia Carens:** ₹16 per km\n• **Mahindra XUV700:** ₹18 per km\n• **Innova Crysta:** ₹20 per km\n• **Innova Hycross:** ₹22 per km\n• **Tempo Traveller:** ₹28 per km\n*Term details:* Minimum charging is 250 km/day. Driver allowance is ₹300/day. Tolls and permits will be extra. Let us know your destination and date to plan your journey!",
+    "topic": "Outstation"
+  },
+  {
+    "_id": "mqlvikxii4eu6",
+    "createdAt": "2026-06-20T04:44:35.574Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqlxpcw9qg9xm",
+    "createdAt": "2026-06-20T05:45:50.985Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqlxyf2aquqvf",
+    "createdAt": "2026-06-20T05:52:53.698Z",
+    "userMessage": "i want to go to hyderabad to vizag so recomend a vehicals",
+    "aiResponse": "Welcome to Manivtha Tours & Travels, Hyderabad! We are here to help you.\nWe provide Airport drops (from ₹1,200), Local Rentals (8hr/80km from ₹2,500), and Outstation trips (starting at ₹12/km) across India.\nOur vehicles include Sedans, Carens, XUV700, Innova, and Tempo Travellers.\nWhat can I help you with today? Feel free to ask about pricing, vehicles, or bookings!",
+    "topic": "General"
+  },
+  {
+    "_id": "mqqcx5eg13bh7",
+    "createdAt": "2026-06-23T08:02:53.464Z",
+    "userMessage": "Hello",
+    "aiResponse": "Welcome to Manivtha Tours & Travels, Hyderabad! We are here to help you.\nWe provide Airport drops (from ₹1,200), Local Rentals (8hr/80km from ₹2,500), and Outstation trips (starting at ₹12/km) across India.\nOur vehicles include Sedans, Carens, XUV700, Innova, and Tempo Travellers.\nWhat can I help you with today? Feel free to ask about pricing, vehicles, or bookings!",
+    "topic": "General"
+  },
+  {
+    "_id": "mqqcxjodcpzgz",
+    "createdAt": "2026-06-23T08:03:11.965Z",
+    "userMessage": "Do you offer corporate contracts and office employee pickups?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqcybhg8jsrs",
+    "createdAt": "2026-06-23T08:03:48.004Z",
+    "userMessage": "Do you offer corporate contracts and office employee pickups?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqd16fxel1f2",
+    "createdAt": "2026-06-23T08:06:01.437Z",
+    "userMessage": "Do you offer corporate contracts and office employee pickups?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqd1njxgfyqb",
+    "createdAt": "2026-06-23T08:06:23.613Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqd1xj84xkps",
+    "createdAt": "2026-06-23T08:06:36.548Z",
+    "userMessage": "Do you offer corporate contracts and office employee pickups?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdk00i8i7dv",
+    "createdAt": "2026-06-23T08:20:39.570Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdkjwbc737h",
+    "createdAt": "2026-06-23T08:21:05.339Z",
+    "userMessage": "Hello, tell me about your services.",
+    "aiResponse": "Welcome to Manivtha Tours & Travels, Hyderabad! We are here to help you.\nWe provide Airport drops (from ₹1,200), Local Rentals (8hr/80km from ₹2,500), and Outstation trips (starting at ₹12/km) across India.\nOur vehicles include Sedans, Carens, XUV700, Innova, and Tempo Travellers.\nWhat can I help you with today? Feel free to ask about pricing, vehicles, or bookings!",
+    "topic": "General"
+  },
+  {
+    "_id": "mqqdl224wifn6",
+    "createdAt": "2026-06-23T08:21:28.876Z",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdli8st76un",
+    "createdAt": "2026-06-23T08:21:49.852Z",
+    "userMessage": "Tell me a joke",
+    "aiResponse": "Welcome to Manivtha Tours & Travels, Hyderabad! We are here to help you.\nWe provide Airport drops (from ₹1,200), Local Rentals (8hr/80km from ₹2,500), and Outstation trips (starting at ₹12/km) across India.\nOur vehicles include Sedans, Carens, XUV700, Innova, and Tempo Travellers.\nWhat can I help you with today? Feel free to ask about pricing, vehicles, or bookings!",
+    "topic": "General"
+  },
+  {
+    "_id": "mqqdnf902t74d",
+    "createdAt": "2026-06-23T08:23:19.284Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdo3l34lpp8",
+    "createdAt": "2026-06-23T08:23:50.823Z",
+    "userMessage": "Please respond in Hindi. Do you have cabs in Hyderabad?",
+    "aiResponse": "Welcome to Manivtha Tours & Travels, Hyderabad! We are here to help you.\nWe provide Airport drops (from ₹1,200), Local Rentals (8hr/80km from ₹2,500), and Outstation trips (starting at ₹12/km) across India.\nOur vehicles include Sedans, Carens, XUV700, Innova, and Tempo Travellers.\nWhat can I help you with today? Feel free to ask about pricing, vehicles, or bookings!",
+    "topic": "General"
+  },
+  {
+    "_id": "mqqdox2g5p2nd",
+    "createdAt": "2026-06-23T08:24:29.032Z",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdpe4z2a6bc",
+    "createdAt": "2026-06-23T08:24:51.155Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdq1zw1ve0y",
+    "createdAt": "2026-06-23T08:25:22.076Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "Here is our baseline pricing schedule for Manivtha Tours & Travels:\n• **Sedans (Dzire, Amaze, Aura, Etios):** Outstation ₹12/km | Airport ₹1,200.\n• **MPV (Kia Carens):** Outstation ₹16/km | Airport ₹1,900.\n• **SUV (Mahindra XUV700):** Outstation ₹18/km | Airport ₹2,100.\n• **Premium SUV (Innova Crysta):** Outstation ₹20/km | Airport ₹2,400.\n• **Luxury SUV (Innova Hycross):** Outstation ₹22/km | Airport ₹2,700.\n• **Tempo Travellers:** Outstation starting at ₹28/km.\n*Tolls, state permits, and driver allowance are extra.* Please call us at **+91 94901 02588** for a precise estimate.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqds1iz6r6ny",
+    "createdAt": "2026-06-23T08:26:54.779Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "यहाँ मणिवथा टूर्स एंड ट्रेवल्स के लिए हमारी आधारभूत मूल्य सूची दी गई है:\n• **सेडान (डिजायर, अमेज, ऑरा, एटिओस):** आउटस्टेशन ₹12/किमी | एयरपोर्ट ₹1,200.\n• **एमपीवी (किआ कारेंस):** आउटस्टेशन ₹16/किमी | एयरपोर्ट ₹1,900.\n• **एसयूवी (महिंद्रा XUV700):** आउटस्टेशन ₹18/किमी | एयरपोर्ट ₹2,100.\n• **प्रीमियम एसयूवी (इनोवा क्रिस्टा):** आउटस्टेशन ₹20/किमी | एयरपोर्ट ₹2,400.\n• **लक्जरी एसयूवी (इनोवा हाईक्रॉस):** आउटस्टेशन ₹22/किमी | एयरपोर्ट ₹2,700.\n• **टेम्पो ट्रैवलर:** आउटस्टेशन ₹28/किमी से शुरू।\n*टोल, राज्य परमिट और ड्राइवर भत्ता अतिरिक्त हैं।* कृपया सटीक अनुमान के लिए हमें **+91 94901 02588** पर कॉल करें.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdskuyj22qs",
+    "createdAt": "2026-06-23T08:27:19.834Z",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "మణివ్తా టూర్స్ & ట్రావెల్స్ కోసం మా బేస్‌లైన్ ధరల పట్టిక ఇక్కడ ఉంది:\n• **సెడాన్లు (డిజైర్, అమేజ్, ఆరా, ఈటియోస్):** అవుట్‌స్టేషన్ ₹12/కిమీ | ఎయిర్‌పోర్ట్ ₹1,200.\n• **MPV (కియా క్యారెన్స్):** అవుట్‌స్టేషన్ ₹16/కిమీ | ఎయిర్‌పోర్ట్ ₹1,900.\n• **SUV (మహీంద్రా XUV700):** అవుట్‌స్టేషన్ ₹18/కిమీ | ఎయిర్‌పోర్ట్ ₹2,100.\n• **ప్రీమియం SUV (ఇన్నోవా క్రిస్టా):** అవుట్‌స్టేషన్ ₹20/కిమీ | ఎయిర్‌పోర్ట్ ₹2,400.\n• **లగ్జరీ SUV (ఇన్నోవా హైక్రాస్):** అవుట్‌స్టేషన్ ₹22/కిమీ | ఎయిర్‌పోర్ట్ ₹2,700.\n• **టెంపో ట్రావెలర్లు:** అవుట్‌స్టేషన్ ₹28/కిమీ నుండి ప్రారంభం.\n*టోల్‌ಗಳು, స్టేట్ పర్మిట్లు మరియు డ్రైవర్ అలవెన్స్ అదనం.* ఖచ్చితమైన అంచనా కోసం దయచేసి మమ్మల్ని **+91 94901 02588** వద్ద సంప్రదించండి.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqduyo9xm7dg",
+    "createdAt": "2026-06-23T08:29:11.049Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "మణివ్తా టూర్స్ & ట్రావెల్స్ కోసం మా బేస్‌లైన్ ధరల పట్టిక ఇక్కడ ఉంది:\n• **సెడాన్లు (డిజైర్, అమేజ్, ఆరా, ఈటియోస్):** అవుట్‌స్టేషన్ ₹12/కిమీ | ఎయిర్‌పోర్ట్ ₹1,200.\n• **MPV (కియా క్యారెన్స్):** అవుట్‌స్టేషన్ ₹16/కిమీ | ఎయిర్‌పోర్ట్ ₹1,900.\n• **SUV (మహీంద్రా XUV700):** అవుట్‌స్టేషన్ ₹18/కిమీ | ఎయిర్‌పోర్ట్ ₹2,100.\n• **ప్రీమియం SUV (ఇన్నోవా క్రిస్టా):** అవుట్‌స్టేషన్ ₹20/కిమీ | ఎయిర్‌పోర్ట్ ₹2,400.\n• **లగ్జరీ SUV (ఇన్నోవా హైక్రాస్):** అవుట్‌స్టేషన్ ₹22/కిమీ | ఎయిర్‌పోర్ట్ ₹2,700.\n• **టెంపో ట్రావెలర్లు:** అవుట్‌స్టేషన్ ₹28/కిమీ నుండి ప్రారంభం.\n*టోల్‌ಗಳು, స్టేట్ పర్మిట్లు మరియు డ్రైవర్ అలవెన్స్ అదనం.* ఖచ్చితమైన అంచనా కోసం దయచేసి మమ్మల్ని **+91 94901 02588** వద్ద సంప్రదించండి.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdvo2jp15rm",
+    "createdAt": "2026-06-23T08:29:43.963Z",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "మణివ్తా టూర్స్ & ట్రావెల్స్ కోసం మా బేస్‌లైన్ ధరల పట్టిక ఇక్కడ ఉంది:\n• **సెడాన్లు (డిజైర్, అమేజ్, ఆరా, ఈటియోస్):** అవుట్‌స్టేషన్ ₹12/కిమీ | ఎయిర్‌పోర్ట్ ₹1,200.\n• **MPV (కియా క్యారెన్స్):** అవుట్‌స్టేషన్ ₹16/కిమీ | ఎయిర్‌పోర్ట్ ₹1,900.\n• **SUV (మహీంద్రా XUV700):** అవుట్‌స్టేషన్ ₹18/కిమీ | ఎయిర్‌పోర్ట్ ₹2,100.\n• **ప్రీమియం SUV (ఇన్నోవా క్రిస్టా):** అవుట్‌స్టేషన్ ₹20/కిమీ | ఎయిర్‌పోర్ట్ ₹2,400.\n• **లగ్జరీ SUV (ఇన్నోవా హైక్రాస్):** అవుట్‌స్టేషన్ ₹22/కిమీ | ఎయిర్‌పోర్ట్ ₹2,700.\n• **టెంపో ట్రావెలర్లు:** అవుట్‌స్టేషన్ ₹28/కిమీ నుండి ప్రారంభం.\n*టోల్‌ಗಳು, స్టేట్ పర్మిట్లు మరియు డ్రైవర్ అలవెన్స్ అదనం.* ఖచ్చితమైన అంచనా కోసం దయచేసి మమ్మల్ని **+91 94901 02588** వద్ద సంప్రదించండి.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdw2cuf7783",
+    "createdAt": "2026-06-23T08:30:02.478Z",
+    "userMessage": "Do you offer corporate contracts and office employee pickups?",
+    "aiResponse": "यहाँ मणिवथा टूर्स एंड ट्रेवल्स के लिए हमारी आधारभूत मूल्य सूची दी गई है:\n• **सेडान (डिजायर, अमेज, ऑरा, एटिओस):** आउटस्टेशन ₹12/किमी | एयरपोर्ट ₹1,200.\n• **एमपीवी (किआ कारेंस):** आउटस्टेशन ₹16/किमी | एयरपोर्ट ₹1,900.\n• **एसयूवी (महिंद्रा XUV700):** आउटस्टेशन ₹18/किमी | एयरपोर्ट ₹2,100.\n• **प्रीमियम एसयूवी (इनोवा क्रिस्टा):** आउटस्टेशन ₹20/किमी | एयरपोर्ट ₹2,400.\n• **लक्जरी एसयूवी (इनोवा हाईक्रॉस):** आउटस्टेशन ₹22/किमी | एयरपोर्ट ₹2,700.\n• **टेम्पो ट्रैवलर:** आउटस्टेशन ₹28/किमी से शुरू।\n*टोल, राज्य परमिट और ड्राइवर भत्ता अतिरिक्त हैं।* कृपया सटीक अनुमान के लिए हमें **+91 94901 02588** पर कॉल करें.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqdwrne1iyqi",
+    "createdAt": "2026-06-23T08:30:35.258Z",
+    "userMessage": "hi",
+    "aiResponse": "Welcome to Manivtha Tours & Travels, Hyderabad! We are here to help you.\nWe provide Airport drops (from ₹1,200), Local Rentals (8hr/80km from ₹2,500), and Outstation trips (starting at ₹12/km) across India.\nOur vehicles include Sedans, Carens, XUV700, Innova, and Tempo Travellers.\nWhat can I help you with today? Feel free to ask about pricing, vehicles, or bookings!",
+    "topic": "General"
+  },
+  {
+    "_id": "mqqeszaxjcfn1",
+    "createdAt": "2026-06-23T08:55:38.169Z",
+    "sessionId": "session_mqqepuqbpw7aw",
+    "userMessage": "hi",
+    "aiResponse": "మణివ్తా టూర్స్ & ట్రావెల్స్, హైదరాబాద్‌కు స్వాగతం! మేము మీకు సహాయం చేయడానికి ఇక్కడ ఉన్నాము.\nమేము భారతదేశమంతటా ఎయిర్‌పోర్ట్ డ్రాప్స్ (₹1,200 నుండి), లోకల్ రెంటల్స్ (8గం/80కిಮೀలు ₹2,500 నుండి), మరియు అవుట్‌స్టేషన్ ట్రిప్స్ (₹12/కిమీ నుండి) అందిస్తాము.\nమా వాహనాలలో సెడాన్లు, క్యారెన్స్, XUV700, ఇన్నోవా మరియు టెంపో ట్రావెలర్లు ఉన్నాయి.\nఈ రోజు నేను మీకు ఎలా సహాయం చేయగలను? ధరలు, వాహనాలు లేదా బుకింగ్‌ల గురించి సంకోచించకుండా అడగండి!",
+    "topic": "General"
+  },
+  {
+    "_id": "mqqfbslab6kfk",
+    "createdAt": "2026-06-23T09:10:15.934Z",
+    "sessionId": "session_mqqepuqbpw7aw",
+    "userMessage": "Hello",
+    "aiResponse": "Welcome to Manivtha Tours & Travels, Hyderabad! We are here to help you.\nWe provide Airport drops (from ₹1,200), Local Rentals (8hr/80km from ₹2,500), and Outstation trips (starting at ₹12/km) across India.\nOur vehicles include Sedans, Carens, XUV700, Innova, and Tempo Travellers.\nWhat can I help you with today? Feel free to ask about pricing, vehicles, or bookings!",
+    "topic": "General"
+  },
+  {
+    "_id": "mqqotlkgqct4i",
+    "createdAt": "2026-06-23T13:36:03.184Z",
+    "sessionId": "session_mqqfi1ni2q3c5",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "మణివ్తా టూర్స్ & ట్రావెల్స్ కోసం మా బేస్‌లైన్ ధరల పట్టిక ఇక్కడ ఉంది:\n• **సెడాన్లు (డిజైర్, అమేజ్, ఆరా, ఈటియోస్):** అవుట్‌స్టేషన్ ₹12/కిమీ | ఎయిర్‌పోర్ట్ ₹1,200.\n• **MPV (కియా క్యారెన్స్):** అవుట్‌స్టేషన్ ₹16/కిమీ | ఎయిర్‌పోర్ట్ ₹1,900.\n• **SUV (మహీంద్రా XUV700):** అవుట్‌స్టేషన్ ₹18/కిమీ | ఎయిర్‌పోర్ట్ ₹2,100.\n• **ప్రీమియం SUV (ఇన్నోవా క్రిస్టా):** అవుట్‌స్టేషన్ ₹20/కిమీ | ఎయిర్‌పోర్ట్ ₹2,400.\n• **లగ్జరీ SUV (ఇన్నోవా హైక్రాస్):** అవుట్‌స్టేషన్ ₹22/కిమీ | ఎయిర్‌పోర్ట్ ₹2,700.\n• **టెంపో ట్రావెలర్లు:** అవుట్‌స్టేషన్ ₹28/కిమీ నుండి ప్రారంభం.\n*టోల్‌ಗಳು, స్టేట్ పర్మిట్లు మరియు డ్రైవర్ అలవెన్స్ అదనం.* ఖచ్చితమైన అంచనా కోసం దయచేసి మమ్మల్ని **+91 94901 02588** వద్ద సంప్రదించండి.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqqou4xm43rk9",
+    "createdAt": "2026-06-23T13:36:28.282Z",
+    "sessionId": "session_mqqfi1ni2q3c5",
+    "userMessage": "What are your outstation travel packages and per-km prices?",
+    "aiResponse": "హైదరాబాద్ నుండి ప్రసిద్ధ యాత్రా ప్యాకేజీలు:\n• **హైదరాబాద్ సిటీ టూర్ (1 రోజు):** చార్మినార్, గోల్కొండ కోట సందర్శన. ధర: ₹2,500 (సెడాన్) | ₹3,800 (SUV).\n• **శ్రీశైలం తీర్థయాత్ర (2 రోజులు):** ఫ్యామిలీ టెంపుల్ టూర్. ధర: ₹9,000 (సెడాన్) | ₹15,000 (SUV).\n• **యాదగిరిగుట్ట టెంపుల్ టూర్:** ధర: ₹4,000 (సెడాన్) | ₹6,500 (SUV).\n• **అరకు వ్యాలీ & వైజాగ్ టూర్ (3 రోజులు):** సెడాన్: ₹12/కిమీ | SUV: ₹18/కిమీ | టెంపో: ₹28/కిమీ.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mqrpdmww53z0i",
+    "createdAt": "2026-06-24T06:39:24.224Z",
+    "sessionId": "session_mqqfi1ni2q3c5",
+    "userMessage": "I WANT TO GO TO HYDERABAD TO BASAR GIVE ME VEHICALS SUGGESTION",
+    "aiResponse": "మణివ్తా టూర్స్ & ట్రావెల్స్, హైదరాబాద్‌కు స్వాగతం! మేము మీకు సహాయం చేయడానికి ఇక్కడ ఉన్నాము.\nమేము భారతదేశమంతటా ఎయిర్‌పోర్ట్ డ్రాప్స్ (₹1,200 నుండి), లోకల్ రెంటల్స్ (8గం/80కిಮೀలు ₹2,500 నుండి), మరియు అవుట్‌స్టేషన్ ట్రిప్స్ (₹12/కిమీ నుండి) అందిస్తాము.\nమా వాహనాలలో సెడాన్లు, క్యారెన్స్, XUV700, ఇన్నోవా మరియు టెంపో ట్రావెలర్లు ఉన్నాయి.\nఈ రోజు నేను మీకు ఎలా సహాయం చేయగలను? ధరలు, వాహనాలు లేదా బుకింగ్‌ల గురించి సంకోచించకుండా అడగండి!",
+    "topic": "General"
+  },
+  {
+    "_id": "mqt05t4n3sfjv",
+    "createdAt": "2026-06-25T04:29:00.983Z",
+    "sessionId": "session_mqqfi1ni2q3c5",
+    "userMessage": "Do you offer airport drops? What are the rates?",
+    "aiResponse": "మణివ్తా టూర్స్ & ట్రావెల్స్ కోసం మా బేస్‌లైన్ ధరల పట్టిక ఇక్కడ ఉంది:\n• **సెడాన్లు (డిజైర్, అమేజ్, ఆరా, ఈటియోస్):** అవుట్‌స్టేషన్ ₹12/కిమీ | ఎయిర్‌పోర్ట్ ₹1,200.\n• **MPV (కియా క్యారెన్స్):** అవుట్‌స్టేషన్ ₹16/కిమీ | ఎయిర్‌పోర్ట్ ₹1,900.\n• **SUV (మహీంద్రా XUV700):** అవుట్‌స్టేషన్ ₹18/కిమీ | ఎయిర్‌పోర్ట్ ₹2,100.\n• **ప్రీమియం SUV (ఇన్నోవా క్రిస్టా):** అవుట్‌స్టేషన్ ₹20/కిమీ | ఎయిర్‌పోర్ట్ ₹2,400.\n• **లగ్జరీ SUV (ఇన్నోవా హైక్రాస్):** అవుట్‌స్టేషన్ ₹22/కిమీ | ఎయిర్‌పోర్ట్ ₹2,700.\n• **టెంపో ట్రావెలర్లు:** అవుట్‌స్టేషన్ ₹28/కిమీ నుండి ప్రారంభం.\n*టోల్‌ಗಳು, స్టేట్ పర్మిట్లు మరియు డ్రైవర్ అలవెన్స్ అదనం.* ఖచ్చితమైన అంచనా కోసం దయచేసి మమ్మల్ని **+91 94901 02588** వద్ద సంప్రదించండి.",
+    "topic": "Pricing"
+  },
+  {
+    "_id": "mquy509a0swa5",
+    "createdAt": "2026-06-26T13:07:56.686Z",
+    "sessionId": "session_mqqfi1ni2q3c5",
+    "userMessage": "i want to go to hyderabad to vizag so give me transport prizes",
+    "aiResponse": "మణివ్తా టూర్స్ & ట్రావెల్స్, హైదరాబాద్‌కు స్వాగతం! మేము మీకు సహాయం చేయడానికి ఇక్కడ ఉన్నాము.\nమేము భారతదేశమంతటా ఎయిర్‌పోర్ట్ డ్రాప్స్ (₹1,200 నుండి), లోకల్ రెంటల్స్ (8గం/80కిಮೀలు ₹2,500 నుండి), మరియు అవుట్‌స్టేషన్ ట్రిప్స్ (₹12/కిమీ నుండి) అందిస్తాము.\nమా వాహనాలలో సెడాన్లు, క్యారెన్స్, XUV700, ఇన్నోవా మరియు టెంపో ట్రావెలర్లు ఉన్నాయి.\nఈ రోజు నేను మీకు ఎలా సహాయం చేయగలను? ధరలు, వాహనాలు లేదా బుకింగ్‌ల గురించి సంకోచించకుండా అడగండి!",
+    "topic": "General"
+  },
+  {
+    "_id": "mquy64ps88px1",
+    "createdAt": "2026-06-26T13:08:49.120Z",
+    "sessionId": "session_mqqfi1ni2q3c5",
+    "userMessage": "i want to go to hyderabad to vizag so give me transport prizes",
+    "aiResponse": "Welcome to Manivtha Tours & Travels, Hyderabad! We are here to help you.\nWe provide Airport drops (from ₹1,200), Local Rentals (8hr/80km from ₹2,500), and Outstation trips (starting at ₹12/km) across India.\nOur vehicles include Sedans, Carens, XUV700, Innova, and Tempo Travellers.\nWhat can I help you with today? Feel free to ask about pricing, vehicles, or bookings!",
+    "topic": "General"
+  },
+  {
+    "_id": "mquyrrcibjtmi",
+    "createdAt": "2026-06-26T13:25:38.226Z",
+    "sessionId": "session_mqqfi1ni2q3c5",
+    "userMessage": "Do you provide vehicles for airport drop at midnight?",
+    "aiResponse": "We provide reliable 24/7 transfers to Rajiv Gandhi International Airport (RGIA), Shamshabad:\n• **Sedans:** ₹1,200 flat.\n• **Kia Carens:** ₹1,900 flat.\n• **Mahindra XUV700:** ₹2,100 flat.\n• **Toyota Innova Crysta:** ₹2,400 flat.\n• **Toyota Innova Hycross:** ₹2,700 flat.\nCall us on **+91 94901 02588** or fill out our Contact Page booking form to confirm your ride.",
+    "topic": "Airport"
+  },
+  {
+    "_id": "mquys72ukwfp1",
+    "createdAt": "2026-06-26T13:25:58.614Z",
+    "sessionId": "session_mqqfi1ni2q3c5",
+    "userMessage": "Can you arrange a 3 day trip to Coorg for 6 people?",
+    "aiResponse": "🚌 **AI Ride Recommendation:**\nRecommended Vehicle: **SUVs / MPVs** (Kia Carens for 6 pax @ ₹16/km, Mahindra XUV700 for 7 pax @ ₹18/km, or Toyota Innova Crysta for 7 pax @ ₹20/km).\nReason: Ideal spacing and suspension for 5-7 passengers with luggage. For luxury hybrid travel, we also have the Toyota Innova Hycross @ ₹22/km.\n\nWould you like me to calculate outstation tolls for this, or check availability for a specific pickup date? You can book by submitting our Contact Form or calling **+91 94901 02588**.",
+    "topic": "Outstation"
+  }
+]

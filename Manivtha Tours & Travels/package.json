@@ -1,0 +1,19 @@
+{
+  "name": "manivtha-tours-travels",
+  "version": "1.0.0",
+  "description": "Travel and Transportation Website for Manivtha Tours & Travels",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "dev": "node ./node_modules/concurrently/dist/bin/concurrently.js \"cd backend && node src/server.js\" \"cd frontend && node node_modules/vite/bin/vite.js\"",
+    "dev:backend": "cd backend && node src/server.js",
+    "dev:frontend": "cd frontend && node node_modules/vite/bin/vite.js",
+    "start": "node backend/src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "mqqffx6jhbi1x",
+    "createdAt": "2026-06-23T09:13:28.507Z",
+    "name": "John Doe",
+    "phone": "9876543210",
+    "preferences": [
+      "Airport Transfer"
+    ],
+    "lastActivity": "2026-06-23T09:13:28.505Z",
+    "bookingCount": 1
+  },
+  {
+    "_id": "mqqfjm61hs8bp",
+    "createdAt": "2026-06-23T09:16:20.857Z",
+    "name": "Ritwik",
+    "phone": "9963975666",
+    "preferences": [
+      "Local Rental"
+    ],
+    "lastActivity": "2026-06-23T09:16:20.856Z",
+    "bookingCount": 1
+  }
+]
