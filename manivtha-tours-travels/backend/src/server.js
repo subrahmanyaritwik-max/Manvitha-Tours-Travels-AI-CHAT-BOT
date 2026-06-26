@@ -12,6 +12,24 @@ const PORT = process.env.PORT || 5000;
 // Connect to Database (falls back to local JSON files if unavailable)
 connectDB();
 
+const originalConsoleError = console.error;
+global.latestErrors = [];
+console.error = (...args) => {
+  global.latestErrors.push({
+    timestamp: new Date().toISOString(),
+    message: args.map(a => {
+      if (a instanceof Error) return a.message + '\n' + a.stack;
+      return typeof a === 'object' ? JSON.stringify(a) : String(a);
+    }).join(' ')
+  });
+  if (global.latestErrors.length > 50) global.latestErrors.shift();
+  originalConsoleError.apply(console, args);
+};
+
+app.get('/api/debug-errors', (req, res) => {
+  res.json(global.latestErrors);
+});
+
 // Middleware
 app.use(cors());
 app.use(express.json());
