@@ -18,7 +18,7 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          cd "Manivtha Tours & Travels/frontend"
+          cd "manivtha-tours-travels/frontend"
           npm install
           npm run build
           cp dist/index.html dist/404.html

@@ -2,7 +2,7 @@ services:
   - type: web
     name: manivtha-tours-backend
     runtime: node
-    rootDir: "Manivtha Tours & Travels/backend"
+    rootDir: "manivtha-tours-travels/backend"
     buildCommand: npm install
     startCommand: node src/server.js
     envVars:

@@ -449,5 +449,13 @@
     "userMessage": "Can you arrange a 3 day trip to Coorg for 6 people?",
     "aiResponse": "🚌 **AI Ride Recommendation:**\nRecommended Vehicle: **SUVs / MPVs** (Kia Carens for 6 pax @ ₹16/km, Mahindra XUV700 for 7 pax @ ₹18/km, or Toyota Innova Crysta for 7 pax @ ₹20/km).\nReason: Ideal spacing and suspension for 5-7 passengers with luggage. For luxury hybrid travel, we also have the Toyota Innova Hycross @ ₹22/km.\n\nWould you like me to calculate outstation tolls for this, or check availability for a specific pickup date? You can book by submitting our Contact Form or calling **+91 94901 02588**.",
     "topic": "Outstation"
+  },
+  {
+    "_id": "mqv198vh1jegx",
+    "createdAt": "2026-06-26T14:35:13.325Z",
+    "sessionId": "session_mqqfi1ni2q3c5",
+    "userMessage": "Do you provide vehicles for airport drop at midnight?",
+    "aiResponse": "We provide reliable 24/7 transfers to Rajiv Gandhi International Airport (RGIA), Shamshabad:\n• **Sedans:** ₹1,200 flat.\n• **Kia Carens:** ₹1,900 flat.\n• **Mahindra XUV700:** ₹2,100 flat.\n• **Toyota Innova Crysta:** ₹2,400 flat.\n• **Toyota Innova Hycross:** ₹2,700 flat.\nCall us on **+91 94901 02588** or fill out our Contact Page booking form to confirm your ride.",
+    "topic": "Airport"
   }
 ]

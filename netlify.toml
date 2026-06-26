@@ -1,5 +1,5 @@
 [build]
-  base = "Manivtha Tours & Travels/frontend"
+  base = "manivtha-tours-travels/frontend"
   publish = "dist"
   command = "npm run build"
 
