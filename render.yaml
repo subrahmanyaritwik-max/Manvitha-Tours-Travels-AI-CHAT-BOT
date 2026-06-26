@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: manivtha-tours-backend
+    runtime: node
+    rootDir: "Manivtha Tours & Travels/backend"
+    buildCommand: npm install
+    startCommand: node src/server.js
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: ADMIN_PASSCODE
+        value: admin123
+      - key: GEMINI_API_KEY
+        value: "" # You will enter your actual Gemini Key in the Render dashboard
