@@ -57,6 +57,7 @@ Keep responses concise, formatted with bullet points for readability. DO NOT out
 
 const detectTopic = (text = '') => {
   const t = text.toLowerCase();
+  if (t.includes('discount') || t.includes('offer') || t.includes('promo') || t.includes('reduction') || t.includes('less') || t.includes('cheap')) return 'Discount';
   if (t.includes('price') || t.includes('cost') || t.includes('charge') || t.includes('rate') || t.includes('fare') || t.includes('rupee') || t.includes('₹') || t.includes('how much')) return 'Pricing';
   if (t.includes('airport') || t.includes('rgia') || t.includes('shamshabad') || t.includes('flight') || t.includes('drop') || t.includes('pickup')) return 'Airport';
   if (t.includes('outstation') || t.includes('package') || t.includes('trip') || t.includes('tour') || t.includes('long distance') || t.includes('intercity')) return 'Outstation';
@@ -455,6 +456,45 @@ Custom ஆன்மீக பயண விவரங்களுக்கு **+9
   }
 };
 
+const ADDITIONAL_RESPONSES = {
+  English: {
+    wedding: `We provide luxury car rentals (like Toyota Innova, Hycross, and Sedans) for wedding transportation and guest transfers. Call +91 94901 02588 for customized event packages!`,
+    corporate: `We offer corporate travel contracts and office employee pick-up/drop services. Contact our management at +91 94901 02588 or info@manivthatravels.com.`,
+    driver: `Our chauffeurs are highly experienced, professional, and well-trained. Driver allowance is ₹300/day for outstation and night allowance is ₹500 (10:00 PM to 6:00 AM).`,
+    discount: `We offer special discounts for repeat customers, long-term rentals, and multi-day packages! Please contact us at +91 94901 02588 to negotiate the best price for your travel.`
+  },
+  Kannada: {
+    wedding: `ನಾವು ಮದುವೆಯ ಸಾರಿಗೆ ಮತ್ತು ಅತಿಥಿಗಳ ವರ್ಗಾವಣೆಗಾಗಿ ಐಷಾರಾಮಿ ಕಾರು ಬಾಡಿಗೆಗಳನ್ನು ನೀಡುತ್ತೇವೆ. ಕಸ್ಟಮೈಸ್ ಮಾಡಿದ ಪ್ಯಾಕೇಜ್‌ಗಳಿಗಾಗಿ +91 94901 02588 ಗೆ ಕರೆ ಮಾಡಿ!`,
+    corporate: `ನಾವು ಕಾರ್ಪೊರೇಟ್ ಪ್ರಯಾಣ ಒಪ್ಪಂದಗಳು ಮತ್ತು ಕಚೇರಿ ಉದ್ಯೋಗಿ ಪಿಕಪ್/ಡ್ರಾಪ್ ಸೇವೆಗಳನ್ನು ನೀಡುತ್ತೇವೆ. ನಮ್ಮನ್ನು +91 94901 02588 ಅಥವಾ info@manivthatravels.com ನಲ್ಲಿ ಸಂಪರ್ಕಿಸಿ.`,
+    driver: `ನಮ್ಮ ಚಾಲಕರು ಹೆಚ್ಚು ಅನುಭവിಗಳು ಮತ್ತು ಉತ್ತಮ ತರಬೇತಿ ಪಡೆದಿದ್ದಾರೆ. ದಿನದ ಭತ್ಯೆ ದಿನಕ್ಕೆ ₹300 ಮತ್ತು ರಾತ್ರಿ ಭತ್ಯೆ ₹500 (ರಾತ್ರಿ 10:00 ರಿಂದ ಬೆಳಗ್ಗೆ 6:00 ರವರೆಗೆ) ಇರುತ್ತದೆ.`,
+    discount: `ನಾವು ನಿಯಮಿತ ಗ್ರಾಹಕರಿಗೆ, ದೀರ್ಘಾವಧಿಯ ಬಾಡಿಗೆಗೆ ಮತ್ತು ಬಹು-ದಿನದ ಪ್ಯಾಕೇಜ್‌ಗಳಿಗೆ ವಿಶೇಷ ರಿಯಾಯಿತಿಗಳನ್ನು ನೀಡುತ್ತೇವೆ! ಉತ್ತಮ ಬೆಲೆಗಾಗಿ ದಯವಿಟ್ಟು +91 94901 02588 ಗೆ ಕರೆ ಮಾಡಿ.`
+  },
+  Hindi: {
+    wedding: `हम शादी के परिवहन और मेहमानों के ट्रांसफर के लिए लक्जरी कार किराए पर देते हैं। अनुकूलित पैकेजों के लिए +91 94901 02588 पर कॉल करें!`,
+    corporate: `हम कॉर्पोरेट यात्रा अनुबंध और कार्यालय कर्मचारी पिक-अप/ड्रॉप सेवाएं प्रदान करते हैं। हमसे +91 94901 02588 या info@manivthatravels.com पर संपर्क करें।`,
+    driver: `हमारे ड्राइवर अत्यधिक अनुभवी, पेशेवर और अच्छी तरह से प्रशिक्षित हैं। आउटस्टेशन के लिए ड्राइवर भत्ता ₹300/दिन है और रात का भत्ता ₹500 (10:00 PM से 6:00 AM) है।`,
+    discount: `हम नियमित ग्राहकों, दीर्घकालिक किराए और बहु-दिवसीय पैकेजों के लिए विशेष छूट प्रदान करते हैं! सर्वोत्तम मूल्य के लिए कृपया हमसे +91 94901 02588 पर संपर्क करें।`
+  },
+  Telugu: {
+    wedding: `మేము వివాహ రవాణా మరియు అతిథి బదిలీల కోసం లഗ്జరీ కార్ల అద్దెలను అందిస్తాము. అనుకూలీకరించిన ప్యాకేజీల కోసం +91 94901 02588 కి కాల్ చేయండి!`,
+    corporate: `మేము కార్పൊరేట్ ప్రయాణ ఒప్పందాలు మరియు కార్యాలయ ఉద్యోగుల పికప్/డ్రాప్ సేవలను అందిస్తాము. మమ్మల్ని +91 94901 02588 లేదా info@manivthatravels.com లో సంప్రదించండి.`,
+    driver: `మా డ్రൈవర్లు చాలా అనుభవజ్ఞులు, వృത്തിపరమైనవారు మరియు బాగా శిక్షణ పొందినవారు. అవుట్‌స్టేషన్ కోసం డ్రൈవర్ అలవెన్స్ రోజుకు ₹300 మరియు నైట్ అలవెన్స్ ₹500 (రాత్రి 10:00 నుండి ఉదയം 6:00 వరకు).`,
+    discount: `మేము రెగ్యులర్ కస్టమర్‌లకు, దీర్ಘకాలిక అద్దెలకు మరియు బహుళ-రోజుల ప్యాకేజీలకు ప్రత్యేక తగ్గింపులను అందిస్తాము! ఉత్తమ ధర కోసం దయచేసి మమ్మల్ని +91 94901 02588 లో సంప్రదించండి.`
+  },
+  Tamil: {
+    wedding: `திருமண போக்குவரத்து மற்றும் விருந்தினர் பரிமாற்றங்களுக்கு சொகுசு கார் வாடகைகளை வழங்குகிறோம். தனிப்பயனாக்கப்பட்ட பேக்கேஜ்களுக்கு +91 94901 02588 ஐ அழைக்கவும்!`,
+    corporate: `கார்ப்பரேட் பயண ஒப்பந்தங்கள் மற்றும் அலுவலக ஊழியர்களின் பிக்கப்/டிராப் சேவைகளை வழங்குகிறோம். எங்களை +91 94901 02588 அல்லது info@manivthatravels.com இல் தொடர்பு கொள்ளவும்.`,
+    driver: `எங்கள் ஓட்டுநர்கள் மிகவும் அனுபவம் வாய்ந்தவர்கள், தொழில்முறை மற்றும் நன்கு பயிற்சி பெற்றவர்கள். அவுட்സ്റ്റേஷனுக்கு ஓட்டுநர் படி ഒരു நாளைக்கு ₹300 மற்றும் இரவு படி ₹500 (10:00 PM முதல் 6:00 AM வரை).`,
+    discount: `தொடர் வாடிக்கையாளர்கள், நீண்ட கால வாடகைகள் மற்றும் பல நாள் பேக்கேஜ்களுக்கு சிறப்பு தள்ளுபடிகளை வழங்குகிறோம்! சிறந்த விலைக்கு எங்களை +91 94901 02588 இல் தொடர்பு கொள்ளவும்.`
+  },
+  Malayalam: {
+    wedding: `വിവാഹ ആവശ്യങ്ങൾക്കും അതിഥികളുടെ യാത്രകൾക്കുമായി ഞങ്ങൾ ലക്ഷ്വറി കാറുകൾ വാടകയ്ക്ക് നൽകുന്നു. കൂടുതൽ വിവരങ്ങൾക്ക് +91 94901 02588 എന്ന നമ്പറിൽ ബന്ധപ്പെടുക!`,
+    corporate: `ഞങ്ങൾ കോർപ്പറേറ്റ് യാത്രാ കരാറുകളും ജീവനക്കാർക്കായുള്ള പിക്ക്-അപ്പ്/ഡ്രോപ്പ് സേവനങ്ങളും നൽകുന്നു. ബന്ധപ്പെടുക: +91 94901 02588 അല്ലെങ്കിൽ info@manivthatravels.com.`,
+    driver: `ഞങ്ങളുടെ ഡ്രൈവർമാർ പരിചയസമ്പന്നരും പ്രൊഫഷണലുമാണ്. ഡ്രൈവർ അലവൻസ് പ്രതിദിനം ₹300, നൈറ്റ് അലവൻസ് ₹500 (10:00 PM മുതൽ 6:00 AM വരെ).`,
+    discount: `ഞങ്ങളുടെ സ്ഥിരം ഉപഭോക്താക്കൾക്കും ദീർഘകാല പാക്കേജുകൾക്കും ഞങ്ങൾ പ്രത്യേക ഡിസ്കൗണ്ടുകൾ നൽകുന്നു! മികച്ച നിരക്കുകൾക്കായി +91 94901 02588 എന്ന നമ്പറിൽ വിളിക്കുക.`
+  }
+};
+
 const getFallbackResponse = (message = '', language = 'English') => {
   let lang = 'English';
   const cleanLang = String(language).trim().toLowerCase();
@@ -466,6 +506,7 @@ const getFallbackResponse = (message = '', language = 'English') => {
   else if (cleanLang.includes('malayalam') || cleanLang.includes('മലയാളം')) lang = 'Malayalam';
   
   const dict = LOCAL_RESPONSES[lang] || LOCAL_RESPONSES['English'];
+  const addDict = ADDITIONAL_RESPONSES[lang] || ADDITIONAL_RESPONSES['English'];
   const topic = detectTopic(message);
   const m = message.toLowerCase();
   
@@ -552,6 +593,14 @@ const getFallbackResponse = (message = '', language = 'English') => {
       return dict.fleet;
     case 'Booking':
       return dict.booking;
+    case 'Wedding':
+      return addDict.wedding;
+    case 'Corporate':
+      return addDict.corporate;
+    case 'Driver':
+      return addDict.driver;
+    case 'Discount':
+      return addDict.discount;
     default:
       return dict.welcome;
   }
