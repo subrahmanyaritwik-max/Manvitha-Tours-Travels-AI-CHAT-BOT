@@ -375,8 +375,7 @@ router.get('/analytics', requireAdmin, async (req, res) => {
 
     const popularQuestions = Object.keys(questionsFreq)
       .map(q => ({ question: q, count: questionsFreq[q] }))
-      .sort((a, b) => b.count - a.count)
-      .slice(0, 5);
+      .sort((a, b) => b.count - a.count);
 
     res.json({
       summary: {

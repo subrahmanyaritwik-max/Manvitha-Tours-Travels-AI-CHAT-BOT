@@ -302,7 +302,7 @@ const ChatbotPage = () => {
           <div className="p-5 rounded-2xl glass-card space-y-4">
             <h3 className="text-sm font-bold text-white font-outfit uppercase tracking-wider">Suggested Questions</h3>
             <div className="flex flex-col gap-2">
-              {quickActions.slice(0, 5).map((action, idx) => (
+              {quickActions.map((action, idx) => (
                 <button
                   key={idx}
                   onClick={() => handleQuickAction(action)}
